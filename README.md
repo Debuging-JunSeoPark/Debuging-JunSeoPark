@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=262627&height=200&section=header&text=Junseo%20Park's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=262627&height=200&section=header&text=Juncci's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50)
 
 ## 🚀 About Me
 
@@ -37,7 +37,6 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=juncci)](https://juncci.tistory.com/)
 
-## 🏆 Baekjoon Online Judge
 
 ## 🏆 Baekjoon Online Judge
 
