@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=262627&height=200&section=header&text=Juncci's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Juncci's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Frontend+Developer;Building+User-Friendly+Web+Experiences;Always+Learning+New+Techs;Let's+Create+Something+Amazing)](https://git.io/typing-svg)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
@@ -48,10 +50,13 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="30" height="30" /> Recent Blog Posts
 
 <p align="left">
-  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Juncci's%20Blog&theme=kakao" height="30" />
+  <a href="https://juncci.tistory.com/">
+    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Juncci's%20Blog&theme=kakao" height="30" />
+  </a>
+  <a href="https://blog.naver.com/qkrrjatk12">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white" height="30" />
+  </a>
 </p>
-
-[![Latest Blog Posts](https://github-readme-tistory-card.vercel.app/api/posts?name=juncci)](https://juncci.tistory.com/)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="25" height="25" /> Baekjoon Online Judge
 
@@ -64,6 +69,7 @@
 
 <a href="mailto:pjseo1313@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://juncci.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Google%20Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/qkrrjatk12"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junseo-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=262627&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer)
