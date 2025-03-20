@@ -2,8 +2,15 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
-👋 안녕하세요! 저는 **트렌드에 민감한 프론트엔드 개발자** 박준서입니다.<br>
-빠르게 변화하는 기술을 습득하고 적용해보는 것을 즐깁니다. 최신 웹 기술과 프레임워크에 관심이 많으며 사용자 경험(UX)을 고려한 개발을 지향합니다.
+<p align="center">
+  <img src="assets/word-art.png" width="300" align="left" />
+  <br/>
+  👋 안녕하세요! 저는 <strong>트렌드에 민감한 프론트엔드 개발자</strong> 박준서입니다.<br>
+  빠르게 변화하는 기술을 습득하고 적용해보는 것을 즐깁니다.<br>
+  최신 웹 기술과 프레임워크에 관심이 많으며, 사용자 경험(UX)을 고려한 개발을 지향합니다.
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> Career
 
