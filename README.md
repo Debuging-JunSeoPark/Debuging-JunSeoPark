@@ -1,6 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Juncci's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Juncci's%20GitHub&fontSize=45&fontColor=ffffff&fontAlignY=50" width="800px"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Frontend+Developer;Building+User-Friendly+Web+Experiences;Always+Learning+New+Techs;Let's+Create+Something+Amazing)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&pause=1000&color=262627&center=true&vCenter=true&width=800&height=50&lines=Frontend+Developer;Building+User-Friendly+Web+Experiences;Always+Learning+New+Techs;Let's+Create+Something+Amazing" width="800px"/>
+  </a>
+</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
 
@@ -72,4 +78,6 @@
 <a href="https://blog.naver.com/qkrrjatk12"><img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/junseo-park/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer" width="800px"/>
+</p>
