@@ -51,17 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debuging-JunSeoPark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="25" height="25" /> Recent Blog Posts
-
-<p align="left">
-  <a href="https://juncci.tistory.com/">
-    <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Juncci's%20Blog&theme=kakao" height="28" />
-  </a>
-  <a href="https://blog.naver.com/qkrrjatk12">
-    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white" height="28" />
-  </a>
-</p>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="20" height="20" /> Baekjoon Online Judge
 
 <p align="left" style="display: flex; gap: 30px;">
@@ -80,6 +69,6 @@
 <a href="https://blog.naver.com/qkrrjatk12">
   <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/junseo-park/">
+<a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%9C-%EB%B0%95-452939359/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
