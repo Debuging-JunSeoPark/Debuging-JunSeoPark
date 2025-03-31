@@ -38,7 +38,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" /> Awards
 
 🏆 **Hufsummer Hackathon 최우수상**
+
 🏆 **K-html Hackathon 우수상**
+
 🏆 **2024-2 SW산학프로젝트(캡스톤) 우수상**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="20" height="20" /> Skills & Tech Stack
