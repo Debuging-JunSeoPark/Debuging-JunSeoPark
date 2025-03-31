@@ -62,4 +62,24 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="20" height="20" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="20" height="20" /> Baekjoon Online Judge
+
+<p align="left" style="display: flex; gap: 30px;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pjseo1313" height="120"/>
+  <img src="https://mazandi.herokuapp.com/api?handle=pjseo1313&theme=dark" height="120"/>
+</p>
+
+## 📩 Contact Me
+
+<a href="mailto:pjseo1313@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://juncci.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Google%20Blogger&logoColor=white"/>
+</a>
+<a href="https://blog.naver.com/qkrrjatk12">
+  <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/junseo-park/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+</a>
