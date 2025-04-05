@@ -14,9 +14,9 @@
     </td>
     <td width="65%">
       <p>
-        👋 안녕하세요! 저는 <strong>트렌드에 민감한 프론트엔드 개발자</strong> 박준서입니다.👋<br>
-        빠르게 변화하는 기술을 습득하고 적용해보는 것을 즐깁니다.<br>
-        최신 웹 기술과 프레임워크에 관심이 많으며, 사용자 경험(UX)을 고려한 개발을 지향합니다.
+        👋 Hello there! I'm Junseo Park, a frontend developer with a keen eye on trends and a passion for building interactive, user-centered web experiences.
+I thrive on learning and applying the latest web technologies, always aiming to deliver intuitive and engaging user interfaces.
+Staying ahead of the curve isn't just a goal—it's my way of coding. Let's build the future, one pixel at a time!
       </p>
     </td>
   </tr>
