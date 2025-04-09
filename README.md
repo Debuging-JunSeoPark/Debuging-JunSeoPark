@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="35%">
-      <img src="https://github.com/Debuging-JunSeoPark/Debuging-JunSeoPark/blob/fd61c329146eda272094a36b9ed3e3ef45a1ec1a/assets/word-art%20(2).png" width="80%" />
+      <img src="https://github.com/Debuging-JunSeoPark/Debuging-JunSeoPark/blob/fd61c329146eda272094a36b9ed3e3ef45a1ec1a/assets/word-art%20(2).png" width="100%" />
     </td>
     <td width="65%">
       <p>
