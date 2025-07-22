@@ -31,10 +31,10 @@ Staying ahead of the curve isn't just a goal—it's my way of coding. Let's buil
 📌 2023.08. ~ 2023.12. | SW Education Program
 
 🌐 **Google Developer Groups on Campus HUFS**  
-📌 2024.09. ~ Present | IT Community
+📌 2024.09. ~ 2025.07 | IT Community
 
 📢 **Korea PR Association - University PR Committee 3rd Generation**  
-📌 2024.09. ~ Present | PR-related Community
+📌 2024.09. ~ 2025.07 | PR-related Community
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" /> Awards
 
