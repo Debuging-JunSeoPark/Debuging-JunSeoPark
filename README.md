@@ -27,6 +27,9 @@ Staying ahead of the curve isn't just a goal—it's my way of coding. Let's buil
 🎓 **Hankuk University of Foreign Studies**  
 📌 2020.03. ~ 2026.2 | (major) Information and Communication Engineering, (Minor) Advertising, PR, and Branding  
 
+🚀 **Kakao - kakao-tech-bootcamp**  
+📌 2025.09. ~ Present | SW Education Program
+
 🚀 **CJ OliveNetworks - CJ SW Creative Camp**  
 📌 2023.08. ~ 2023.12. | SW Education Program
 
