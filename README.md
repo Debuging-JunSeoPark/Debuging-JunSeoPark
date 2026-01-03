@@ -72,6 +72,11 @@ Staying ahead of the curve isn't just a goal—it's my way of coding. Let's buil
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
 </p>
 
+### 🏗️ Build Tools
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
+</p>
+
 ### ☁️ Services & Platforms
 <p>
   <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
