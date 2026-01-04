@@ -92,10 +92,6 @@ Staying ahead of the curve isn't just a goal—it's my way of coding. Let's buil
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="20" height="20" /> Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Debuging-JunSeoPark&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" alt="Joystick" width="20" height="20" /> Baekjoon Online Judge
 
 <p align="left" style="display: flex; gap: 30px;">
