@@ -12,13 +12,18 @@
     <td width="35%">
       <img src="https://github.com/Debuging-JunSeoPark/Debuging-JunSeoPark/blob/fd61c329146eda272094a36b9ed3e3ef45a1ec1a/assets/word-art%20(2).png" width="100%" />
     </td>
-    <td width="65%">
-      <p>
-        👋 Hello there! I'm Junseo Park, a frontend developer with a keen eye on trends and a passion for building interactive, user-centered web experiences.
-I thrive on learning and applying the latest web technologies, always aiming to deliver intuitive and engaging user interfaces.
-Staying ahead of the curve isn't just a goal—it's my way of coding. Let's build the future, one pixel at a time!
-      </p>
-    </td>
+   <td width="65%">
+  <p>
+    👋 안녕하세요, 프론트엔드 개발자 박준서입니다.  
+    저는 “무조건 빠르게”보다 “최악의 상황에서도 흔들리지 않는 서비스”를 기준으로 개발합니다.  
+    렌더링·로딩 병목을 개선하고 실행 흐름을 다듬어, 어떤 환경에서도 일관된 체감 품질을 구현해왔습니다.
+    <br/><br/>
+    경험이나 감이 아닌 실제 사용자 흐름 데이터를 기반으로 개선 대상을 정의하고 우선순위를 결정합니다.  
+    UX와 DX를 함께 고려해 사용성과 유지보수성이 균형 잡힌 구조를 지향하며,  
+    사용자 경험에 직접적인 영향을 주는 병목을 정의하고 구조적으로 해결합니다.  
+    더 나아가 복잡한 수치와 텍스트를 한눈에 읽히는 구조로 재구성하여 데이터와 사용자 사이의 거리를 좁히고자 합니다.
+  </p>
+</td>
   </tr>
 </table>
 
@@ -31,13 +36,13 @@ Staying ahead of the curve isn't just a goal—it's my way of coding. Let's buil
 📌 2025.09. ~ 2026.03 | SW Education Program
 
 🚀 **CJ OliveNetworks - CJ SW Creative Camp**  
-📌 2023.08. ~ 2023.12. | SW Education Program
+📌 2023.08. ~ 2023.12. | SW 교육 봉사
 
 🌐 **Google Developer Groups on Campus HUFS**  
 📌 2024.09. ~ 2025.07 | IT Community
 
 📢 **Korea PR Association - University PR Committee 3rd Generation**  
-📌 2024.09. ~ 2025.07 | PR-related Community
+📌 2024.09. ~ 2025.07 | 대학생 PR 위원회
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" /> Awards
 
